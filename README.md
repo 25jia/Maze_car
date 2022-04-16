@@ -3,7 +3,8 @@ https://www.bilibili.com/video/BV1PZ4y167rh/
 <html>
   	<body>
 <Br/>
-<iframe src="//player.bilibili.com/player.html?aid=382358637&bvid=BV1PZ4y167rh&cid=551879559&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<video src="//player.bilibili.com/player.html?aid=382358637&bvid=BV1PZ4y167rh&cid=551879559&page=1" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 <Br/>
 	</body>
 </html>
